@@ -1,12 +1,12 @@
-noone
+noone         barishal
 --------- 
-buddha
+buddha       asia
 --------  
-jesus 
+jesus        bethelham
 ----------- 
-mohammad 
+mohammad   kaba
 ----------
-neitschze 
+neitschze  prague
 ----------
-slavoe zizac 
+slavoe zizac  croyoshia
 rene jirard 
