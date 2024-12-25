@@ -1,7 +1,7 @@
-noone
-buddha
-jesus
-mohammad
-neitschze
-slavoe zizac
-rene jirard
+noone  000
+buddha  334
+jesus   4554
+mohammad 65656
+neitschze 65656
+slavoe zizac 56554
+rene jirard 565754
